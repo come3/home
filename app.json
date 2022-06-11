@@ -1,0 +1,13 @@
+﻿{
+    "name": "fhdd",
+    "description": "fhdd",
+    "keywords": ["VLESS"],
+    "env": {
+        "ID": {
+            "description": "VLESS ID, use uuid generator",
+            "value": "87b5c352-90d7-4ee1-9d1e-b03231c9fc53"
+        }
+    },
+    "repository": "",
+    "stack": "container"
+}
